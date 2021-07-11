@@ -10,7 +10,7 @@
 
 ### Spotify Playing 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=naveenspidey&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=naveenspidey&cover_image=true&theme=compact)](https://open.spotify.com/user/naveenspidey/)
 
 ### Connect with me:
 
