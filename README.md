@@ -39,9 +39,7 @@
 
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Spidey's GitHub Stats" src="[![Spidey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Spidey03)](https://github.com/Spidey03/github-readme-stats)"/>
+[![Spidey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Spidey03)]
 
 </details>
 
