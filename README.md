@@ -38,10 +38,10 @@
 ---
 
 
-<details>
-![Spidey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Spidey03)
+![Spidey's github stats](https://github-readme-stats.vercel.app/api?username=Spidey03&show_icons=true&hide_border=true)
 
-</details>
+//credits to creators
+
 
 [twitter]: https://twitter.com/iM_Nvnkumar
 [youtube]: https://youtube.com/codeSTACKr
