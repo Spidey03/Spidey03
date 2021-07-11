@@ -39,7 +39,7 @@
 
 
 <details>
-[![Spidey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Spidey03)]
+![Spidey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Spidey03)
 
 </details>
 
