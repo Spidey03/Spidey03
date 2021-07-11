@@ -37,13 +37,9 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spidey03)]
-
----
-
 ![Spidey's github stats](https://github-readme-stats.vercel.app/api?username=Spidey03&show_icons=true&hide_border=true)
 
-//credits to creators
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spidey03)
 
 
 [twitter]: https://twitter.com/iM_Nvnkumar
