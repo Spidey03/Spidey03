@@ -7,10 +7,9 @@
 - 🥅 2021 Goals: Contribute more to Good Projects
 - 📫 How to reach me: sayhai2naveenkumar@gmail.com
 - ⚡ Fun fact: I love to play Games
-
+<!--
 ### Spotify Playing 🎧
 
-<!--
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=naveenspidey&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=naveenspidey&redirect=true)
 -->
 
