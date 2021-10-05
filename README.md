@@ -1,6 +1,6 @@
 # Spidey03
 
-<img alt="profile picture" height="500px" src="images\spidey03.svg"/>
+<img alt="profile picture" height="500px" src="images\spidey03.png"/>
 
 ### 'Bout ya boy
 
