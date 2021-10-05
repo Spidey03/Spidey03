@@ -18,7 +18,7 @@ day by day & give back to the community as much as I can.
 ### Found me around the web
 
 <div>
-    &nbsp;&nbsp; <a href="http://instagram.com/navinn_ku " target="_blank">
+    &nbsp;&nbsp; <a href="http://instagram.com/navinn_kumar" target="_blank">
         <img src="https://img.shields.io/badge/instagram-%2324292e.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;"/>
     </a>
     <br/>
