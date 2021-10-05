@@ -1,50 +1,37 @@
-# Hi there, I'm Naveen AKA Spidey03 👋
+# Spidey03
 
-## I'm a Backend Developer!!
+<img alt="profile picture" height="500px" src="images\spidey.png"/>
 
-- 🌱 I’m currently learning Machine Learning 
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Contribute more to Good Projects
-- 📫 How to reach me: sayhai2naveenkumar@gmail.com
-- ⚡ Fun fact: I love to play Games
-<!--
-### Spotify Playing 🎧
+### 'Bout ya boy
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=naveenspidey&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=naveenspidey&redirect=true)
--->
+- 👨‍🎓 Software Developer
+- 📸 Photographer(JK)
 
-### Connect with me:
+### TLDR;
 
-[<img align="left" alt="codeSTACKr | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+I'm a self-taught software developer who struggles to get better
+day by day & give back to the community as much as I can.
 
-<br />
+- `I do copy & paste`
+- `I make mistakes`
+- `I learn`
+- `I constantly move on`
+- `I repeat`
+### Connect with me
 
-### Languages and Tools:
-
-<code><img align="left" alt="Visual Studio Code" margin="5px" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>
-<code><img align="left" alt="HTML5" margin="5px" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
-<code><img align="left" alt="CSS3" margin="5px" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
-<code><img align="left" alt="JavaScript" margin="5px" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
-<code><img align="left" alt="python" margin="5px" width="30px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"></code>
-<code><img align="left" alt="SQL" margin="5px" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></code>
-<code><img align="left" alt="MySQL" margin="5px" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /></code>
-<code><img align="left" alt="Git" margin="5px" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></code>
-<code><img align="left" alt="GitHub" margin="5px" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></code>
-<code><img align="left" alt="Terminal" margin="5px" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></code>
-
-<br />
-
-
----
-
-![Spidey's github stats](https://github-readme-stats.vercel.app/api?username=Spidey03&show_icons=true&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spidey03)
-
-
-[twitter]: https://twitter.com/iM_Nvnkumar
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/navinn_kumar
-[linkedin]: https://linkedin.com/in/naveen-kumar-344147140
+<div>
+    &nbsp;&nbsp;
+    <br/>
+    &nbsp;&nbsp; <a href="http://instagram.com/navinn_kumar" target="_blank">
+        <img src="https://img.shields.io/badge/instagram-%2324292e.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;"/>
+    </a>
+    <br/>
+    &nbsp;&nbsp; <a href="https://twitter.com/iM_Nvnkumar" target="_blank">
+        <img src="https://img.shields.io/badge/twitter-%2324292e.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;"/>
+    </a>
+    <br/>
+    &nbsp;&nbsp; <a href="https://www.linkedin.com/in/naveen0003" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin-%2324292e.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;"/>
+    </a>
+    <br/>
+</div>
