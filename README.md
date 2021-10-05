@@ -5,7 +5,7 @@
 ### 'Bout ya boy
 
 - :man_technologist: Software Developer
-- 📸 Photographer(JK)
+- 📸 Photographer (Just Kidding) :rofl:
 
 I'm a self-taught software developer who struggles to get better
 day by day & give back to the community as much as I can.
