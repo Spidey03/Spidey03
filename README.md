@@ -1,22 +1,27 @@
 # Spidey03
-
-<img alt="profile picture" height="500px" src="images\spidey03.png"/>
-
 ### 'Bout ya boy
+:::row:::
+    :::column span="2":::
+        - :man_technologist: Software Developer
+        - 📸 Photographer(JK)
 
-- :man_technologist: Software Developer
-- 📸 Photographer(JK)
+        ### TLDR;
 
-### TLDR;
+        I'm a self-taught software developer who struggles to get better
+        day by day & give back to the community as much as I can.
 
-I'm a self-taught software developer who struggles to get better
-day by day & give back to the community as much as I can.
+        - `I do copy & paste`
+        - `I make mistakes`
+        - `I learn`
+        - `I constantly move on`
+        - `I repeat`
+    :::column-end:::
 
-- `I do copy & paste`
-- `I make mistakes`
-- `I learn`
-- `I constantly move on`
-- `I repeat`
+    :::coumn span="":::
+        <img alt="profile picture" height="500px" src="images\spidey03.png"/>
+    :::column-end:::
+:::row-end:::
+
 ### Connect with me
 
 <div>
@@ -35,4 +40,3 @@ day by day & give back to the community as much as I can.
     </a>
     <br/>
 </div>
- 
