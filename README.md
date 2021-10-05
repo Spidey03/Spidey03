@@ -1,6 +1,6 @@
 # Spidey03
 
-<img alt="profile picture" height="500px" src="images\spidey03.png"/>
+<img alt="profile picture" align="right" height="500px" src="images\spidey03.png"/>
 
 ### 'Bout ya boy
 
@@ -15,11 +15,9 @@ day by day & give back to the community as much as I can.
 - `I learn`
 - `I constantly move on`
 - `I repeat`
-### Connect with me
+### Found me around the web
 
 <div>
-    &nbsp;&nbsp;
-    <br/>
     &nbsp;&nbsp; <a href="http://instagram.com/navinn_ku " target="_blank">
         <img src="https://img.shields.io/badge/instagram-%2324292e.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;"/>
     </a>
@@ -33,4 +31,3 @@ day by day & give back to the community as much as I can.
     </a>
     <br/>
 </div>
- 
