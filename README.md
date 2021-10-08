@@ -29,6 +29,8 @@ day by day & give back to the community as much as I can.
         <img src="https://img.shields.io/badge/linkedin-%2324292e.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;"/>
     </a>
     <br/>
+    <br/>
+    &nbsp;&nbsp; <a href="https://github.com/Spidey03" target="_blank">
+        <img src="https://komarev.com/ghpvc/?username=Spidey03&label=Profile%20views&color=129e00&style=plastic" alt="Spidey03">
+    </a>
 </div>
-
-<p align="right"><img src="https://komarev.com/ghpvc/?username=Spidey03&label=Profile%20views&color=129e00&style=plastic" alt="Spidey03"></p>
