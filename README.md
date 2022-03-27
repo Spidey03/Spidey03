@@ -1,5 +1,3 @@
-# Spidey03
-
 <div align="center">
     <img alt="profile picture" style="margin-bottom:10px;" height="200px" src="images\profile.png"/>
     <br/>
