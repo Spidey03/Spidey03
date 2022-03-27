@@ -1,6 +1,18 @@
 # Spidey03
 
-<img alt="profile picture" align="right" height="500px" src="images\spidey03.png"/>
+<div align="center">
+    <img alt="profile picture" style="margin-bottom:5px;" height="300px" src="images\profile.png"/>
+    <br/>
+    <div>
+        &nbsp;&nbsp; <a href="https://www.linkedin.com/in/naveen0003" target="_blank">
+            <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;"/>
+        </a>
+        &nbsp;&nbsp; <a href="https://twitter.com/iM_Nvnkumar" target="_blank">
+            <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;"/>
+        </a>
+        &nbsp;
+    </div>
+</div>
 
 ### 'Bout ya boy
 
@@ -15,23 +27,3 @@ day by day & give back to the community as much as I can.
 - `I learn`
 - `I constantly move on`
 - `I repeat`
-### Found me around the web
-
-<div>
-    &nbsp;&nbsp; <a href="http://instagram.com/navinn_kumar" target="_blank">
-        <img src="https://img.shields.io/badge/instagram-%2324292e.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;"/>
-    </a>
-    <br/>
-    &nbsp;&nbsp; <a href="https://twitter.com/iM_Nvnkumar" target="_blank">
-        <img src="https://img.shields.io/badge/twitter-%2324292e.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;"/>
-    </a>
-    <br/>
-    &nbsp;&nbsp; <a href="https://www.linkedin.com/in/naveen0003" target="_blank">
-        <img src="https://img.shields.io/badge/linkedin-%2324292e.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;"/>
-    </a>
-    <br/>
-    <br/>
-    &nbsp;&nbsp; <a href="https://github.com/Spidey03" target="_blank">
-        <img src="https://komarev.com/ghpvc/?username=Spidey03&label=Profile%20views&color=129e00&style=plastic" alt="Spidey03">
-    </a>
-</div>
