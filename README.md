@@ -1,7 +1,7 @@
 # Spidey03
 
 <div align="center">
-    <img alt="profile picture" style="margin-bottom:5px;" height="300px" src="images\profile.png"/>
+    <img alt="profile picture" style="margin-bottom:5px;" height="200px" src="images\profile.png"/>
     <br/>
     <div>
         &nbsp;&nbsp; <a href="https://www.linkedin.com/in/naveen0003" target="_blank">
