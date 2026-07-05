@@ -40,26 +40,46 @@ Self-taught software developer building backend systems with Django and explorin
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=spidey03&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spidey03&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=spidey03&theme=radical" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=spidey03&theme=radical" alt="Languages"/>
 </p>
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/spidey03/doc-genie">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=spidey03&repo=doc-genie&theme=radical&hide_border=true" alt="doc-genie"/>
-  </a>
-  <a href="https://github.com/spidey03/onesite">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=spidey03&repo=onesite&theme=radical&hide_border=true" alt="onesite"/>
-  </a>
-  <a href="https://github.com/spidey03/depression_prediction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=spidey03&repo=depression_prediction&theme=radical&hide_border=true" alt="depression_prediction"/>
-  </a>
-  <a href="https://github.com/spidey03/restaurant-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=spidey03&repo=restaurant-app&theme=radical&hide_border=true" alt="restaurant-app"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/spidey03/doc-genie">
+        <b>📄 doc-genie</b>
+      </a>
+      <br/>
+      AI-powered PDF analysis tool
+    </td>
+    <td align="center">
+      <a href="https://github.com/spidey03/onesite">
+        <b>🏠 onesite</b>
+      </a>
+      <br/>
+      Find and buy sites/plots by location
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/spidey03/depression_prediction">
+        <b>📊 depression_prediction</b>
+      </a>
+      <br/>
+      Predict depression across age groups
+    </td>
+    <td align="center">
+      <a href="https://github.com/spidey03/restaurant-app">
+        <b>🍽️ restaurant-app</b>
+      </a>
+      <br/>
+      Restaurant order & bill payment app
+    </td>
+  </tr>
+</table>
 
 ---
 
