@@ -26,10 +26,6 @@ Shows how much of each AI provider’s rolling limit is left in the macOS menu b
 
 ## About
 
-I build backend systems with Django and explore machine learning. I write clean code, make mistakes, learn, and ship things that matter.
-
-> I do copy and paste. I make mistakes. I learn. I constantly move on. **I repeat.**
-
 - **Backend:** Python, Django, Go, PostgreSQL
 - **ML:** TensorFlow, scikit-learn
 - **Apps:** Swift, JavaScript
@@ -37,4 +33,9 @@ I build backend systems with Django and explore machine learning. I write clean 
 
 ## Let’s build something together
 
-[LinkedIn](https://www.linkedin.com/in/naveen0003) · [Twitter](https://twitter.com/iM_Nvnkumar) · [Kaggle](https://www.kaggle.com/spidey03) · [Spotify](https://open.spotify.com/user/naveenspidey?si=ab63e2b20a8b49a3)
+<p>
+  <a href="https://www.linkedin.com/in/naveen0003"><img src="assets/linkedin.svg" width="48" height="48" alt="LinkedIn"></a>
+  <a href="https://twitter.com/iM_Nvnkumar"><img src="assets/x.svg" width="48" height="48" alt="X (Twitter)"></a>
+  <a href="https://www.kaggle.com/spidey03"><img src="assets/kaggle.svg" width="48" height="48" alt="Kaggle"></a>
+  <a href="https://open.spotify.com/user/naveenspidey?si=ab63e2b20a8b49a3"><img src="assets/spotify.svg" width="48" height="48" alt="Spotify"></a>
+</p>
