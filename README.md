@@ -1,76 +1,40 @@
-<p align="center">
-  <img src="https://github.com/spidey03.png" width="130" height="130" alt="Naveen" style="border-radius: 50%;"/>
-</p>
+<p align="left"><a href="https://www.linkedin.com/in/naveen0003"><img src="assets/name.svg" width="57%" align="top" alt="Naveen Kumar"></a><a href="https://github.com/Spidey03/tessera"><img src="assets/tessera.svg" width="42%" align="top" alt="I wrote a tiling window manager for macOS"></a><a href="#about"><img src="assets/about.svg" width="57%" align="top" alt="Backend and machine learning developer at Qualcomm, in Hyderabad. Self-taught."></a><a href="https://github.com/Spidey03/model-usage-tracker"><img src="assets/usage.svg" width="42%" align="top" alt="Model usage tracker"></a></p>
 
-<h1 align="center">Hi there, I'm Naveen 👋</h1>
-<h3 align="center">Backend & Machine Learning Developer</h3>
+## Selected work
 
-<div align="center">
-  Self-taught software developer building backend systems with Django and exploring machine learning. I write clean code, make mistakes, learn, and ship things that matter.
-</div>
+### [Tessera](https://github.com/Spidey03/tessera)
+A tiling window manager for macOS. Each display gets its own binary space partition tree, and windows move through the Accessibility API, so there are no Space-switching animations to wait for. `⌘⌥⏎` tiles everything.
 
-## 📊 GitHub Stats
+`Swift` `Python` · [Releases](https://github.com/Spidey03/tessera/releases)
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=spidey03&amp;theme=radical" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com/?user=spidey03&amp;theme=radical&amp;hide_border=true" alt="GitHub Streak"/>
-</p>
+### [Model usage tracker](https://github.com/Spidey03/model-usage-tracker)
+Shows how much of each AI provider’s rolling limit is left in the macOS menu bar, and forecasts whether the current pace will hit the limit before the reset.
 
-## 🚀 Featured Projects
+`Python` `macOS`
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/spidey03/doc-genie">
-        <b>📄 doc-genie</b>
-      </a>
-      <br/>
-      AI-powered PDF analysis tool
-      <br/>
-      <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white"/>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/spidey03/onesite">
-        <b>🏠 onesite</b>
-      </a>
-      <br/>
-      Find and buy sites/plots by location
-      <br/>
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/spidey03/depression_prediction">
-        <b>📊 depression_prediction</b>
-      </a>
-      <br/>
-      Predict depression across age groups
-      <br/>
-      <img src="https://img.shields.io/badge/ML-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/spidey03/restaurant-app">
-        <b>🍽️ restaurant-app</b>
-      </a>
-      <br/>
-      Restaurant order & bill payment app
-      <br/>
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-    </td>
-  </tr>
-</table>
+## More projects
 
-<p align="center">
-  <i>Let's connect and build something amazing together.</i>
-  <br/><br/>
-  <a href="https://www.linkedin.com/in/naveen0003" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  &nbsp;
-  <a href="https://twitter.com/iM_Nvnkumar" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white"/></a>
-  &nbsp;
-  <a href="https://www.kaggle.com/spidey03" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white"/></a>
-  &nbsp;
-  <a href="https://open.spotify.com/user/naveenspidey?si=ab63e2b20a8b49a3" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white"/></a>
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=spidey03&amp;style=flat-square&amp;color=blueviolet" alt="Profile views"/>
-</p>
+| Project | What it does | Built with |
+|:--|:--|:--|
+| [skills](https://github.com/Spidey03/skills) | Workflow instructions for coding agents, with an installer | JavaScript |
+| [doc-genie](https://github.com/Spidey03/doc-genie) | Pulls answers and insights out of PDF documents | Jupyter |
+| [gemini_vidwise](https://github.com/Spidey03/gemini_vidwise) | Explains what happens in a video using Gemini | Jupyter |
+| [depression_prediction](https://github.com/Spidey03/depression_prediction) | Kaggle work on predicting depression across age groups | Jupyter |
+| [onesite](https://github.com/Spidey03/onesite) | Finds and lists plots by location and owner | Django |
+| [imdb_project](https://github.com/Spidey03/imdb_project) | Movie and cast listings with charts of IMDB data | Django |
+| [restaurant-app](https://github.com/Spidey03/restaurant-app) | Orders and bill payments for a restaurant | Django |
+
+## About
+
+I build backend systems with Django and explore machine learning. I write clean code, make mistakes, learn, and ship things that matter.
+
+> I do copy and paste. I make mistakes. I learn. I constantly move on. **I repeat.**
+
+- **Backend:** Python, Django, Go, PostgreSQL
+- **ML:** TensorFlow, scikit-learn
+- **Apps:** Swift, JavaScript
+- **Infrastructure:** Docker, AWS, GitHub Actions
+
+## Let’s build something together
+
+[LinkedIn](https://www.linkedin.com/in/naveen0003) · [Twitter](https://twitter.com/iM_Nvnkumar) · [Kaggle](https://www.kaggle.com/spidey03) · [Spotify](https://open.spotify.com/user/naveenspidey?si=ab63e2b20a8b49a3)
